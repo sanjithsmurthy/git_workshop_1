@@ -1,5 +1,5 @@
 # git_workshop_1
-Authors: sanjithsmurthy, sanjanahpoojary
+Authors: sanjithsmurthy
 <br>
 Start Date: 28th Feb 2024
 <br>
